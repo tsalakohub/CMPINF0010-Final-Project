@@ -7,7 +7,7 @@ By:
 Harrison ALexander - hca4@pitt.edu, 
 Thomas Salako - tas288@pitt.edu, 
 Thomas Yoo - tyy5@pitt.edu
----
+--
 ## **What's the Best Neighborhood to raise a family in Pittsburgh?**
 
 Our project investigates which neighbor in Pittsburgh...
