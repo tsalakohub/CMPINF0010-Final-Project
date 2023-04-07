@@ -1,5 +1,7 @@
+#H1 **CMPINF 0010 FINAL PROJECT**
+---
 Team name - House Hunters
-
+GROUP 42
 Members
 
 Harrison ALexander - hca4@pitt.edu
