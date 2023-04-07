@@ -11,6 +11,5 @@ Thomas Yoo - tyy5@pitt.edu
 Our project investigates which neighbor in Pittsburgh...
 ## **Datasets Used:**
 
-1. [Individualized Education Plan (IEP) by Neighborhood 2020-21 school year](https://data.wprdc.org/dataset/pittsburgh-public-schools-individualized-education-plan-iep/resource/62403582-e6c3-40b6-9bb6-d5d38e3f058d)
-2.
-3.
+1. [Individualized Education Plan (IEP) by Neighborhood 2020-21 school year](https://data.wprdc.org/dataset/pittsburgh-public-schools-individualized-education-plan-iep/resource/62403582-e6c3-40b6-9bb6-d5d38e3f058d) This dataset contains the Individualized Education Plan of K12 schools by each neighborhood in Pittsburgh
+2. 
