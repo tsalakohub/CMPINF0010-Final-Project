@@ -3,7 +3,7 @@ GROUP 42 - House Hunters
 
 By:
 
-Harrison ALexander - hca4@pitt.edu, 
+Harrison Alexander - hca4@pitt.edu, 
 Thomas Salako - tas288@pitt.edu, 
 Thomas Yoo - tyy5@pitt.edu
 ## **What's the Best Neighborhood to raise a family in Pittsburgh?**
