@@ -23,4 +23,6 @@ This dataset contains the location of playgrounds in Pittsburgh
 
 This dataset contains the neighborhood boundaries of Pittsburgh
 
-Conclusion: Based on out metrics, our group decided that Squirrel Hill South is the best neighborhood to live in, since it is the noly neighborhood that is ranked in the top 5 twice in all of our metrics.
+---
+
+**Conclusion**: Based on out metrics, our group decided that Squirrel Hill South is the best neighborhood to live in, since it is the noly neighborhood that is ranked in the top 5 twice in all of our metrics.
